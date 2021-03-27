@@ -4,7 +4,7 @@
 	"description": "I'm learning node js with FreeCodeCamp!!",
 	"keywords": ["freecodecamp", "nodejs", "api", "microservices"],
 	"license": "MIT",
-	"version": "1.0",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
