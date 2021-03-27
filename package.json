@@ -1,6 +1,7 @@
 {
 	"author": "Davin Young",
 	"name": "fcc-learn-npm-package-json",
+	"description": "I'm learning node js with FreeCodeCamp!!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
