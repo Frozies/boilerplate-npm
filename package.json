@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "I'm learning node js with FreeCodeCamp!!",
 	"keywords": ["freecodecamp", "nodejs", "api", "microservices"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
